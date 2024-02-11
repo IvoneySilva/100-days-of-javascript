@@ -53,8 +53,34 @@ Here we have list of projects:
 41. Currency Converter
 42. Live Code Editor
 43. Parallex Slider With Flickity
+44. Minimal Weather App
+45. Particles Portfolio
+46. Sudoku Solver
+47. Text Encryptor
+48. Ai Image Generator
+49. Chess Game (VS Computer)
+50. Food Recipe Website
+51. Draggable Profile Card
+52. Email Sender App
+53. Url Shortner
+54. Glassmorphism Generator
+55. Alarm App
+56. Image Color Picker
+57. 2048 Game
+58. Games Release Calendar
+59. Snake Pong Game
+60. Wikipedia Searcher
+61. Api Quiz Game
+62. Chrome ToDo Extension
+63. Chrome Translator Extension
+64. Speech To Text
+65. Capture Screenshot
+66. Live Chart Generator
+67. Captcha App
+68. JSON Parser
+69. Form Validation
 
-## Where is rest 58 Projects
+## Where is rest 31 Projects
 
 We create a project each 3 days with voting on our <a href="https://youtube.com/@AsmrProg" target="_blank">Youtube</a> channel.
 You can vote for upcoming projects on our channel **community** page :wink:
